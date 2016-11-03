@@ -1,0 +1,5 @@
+'spd=mag(uinterp,vinterp)'
+'uu=uinterp/spd'
+'vv=vinterp/spd'
+'stream=uu*xvort+vv*yvort'
+'cross=uu*yvort-vv*xvort'
